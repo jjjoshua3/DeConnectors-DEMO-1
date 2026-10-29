@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html class="" lang="nl-NL">
+  <head>
+    <meta charset="UTF-8" />
+    <title>
+      DE CONNECTORSBlog
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="shortcut icon" href="http://deconnectors.com/wp-content/uploads/2014/04/favicondc.png" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <!-- This site is optimized with the Yoast SEO plugin v28.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
+    <link rel="canonical" href="http://deconnectors.com/blog-on/" />
+    <meta property="og:locale" content="nl_NL" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Blog" />
+    <meta property="og:url" content="http://deconnectors.com/blog-on/" />
+    <meta property="og:site_name" content="DE CONNECTORS" />
+    <meta property="article:modified_time" content="2015-02-22T15:28:07+00:00" />
+    <script type="application/ld+json" class="yoast-schema-graph">
+      {&#34;@context&#34;:&#34;https:\/\/schema.org&#34;,&#34;@graph&#34;:[{&#34;@type&#34;:&#34;WebPage&#34;,&#34;@id&#34;:&#34;http:\/\/deconnectors.com\/blog-on\/&#34;,&#34;url&#34;:&#34;http:\/\/deconnectors.com\/blog-on\/&#34;,&#34;name&#34;:&#34;Blog&#34;,&#34;isPartOf&#34;:{&#34;@id&#34;:&#34;http:\/\/deconnectors.com\/#website&#34;},&#34;datePublished&#34;:&#34;2013-10-14T13:22:03+00:00&#34;,&#34;dateModified&#34;:&#34;2015-02-22T15:28:07+00:00&#34;,&#34;breadcrumb&#34;:{&#34;@id&#34;:&#34;http:\/\/deconnectors.com\/blog-on\/#breadcrumb&#34;},&#34;inLanguage&#34;:&#34;nl-NL&#34;,&#34;potentialAction&#34;:[{&#34;@type&#34;:&#34;ReadAction&#34;,&#34;target&#34;:[&#34;http:\/\/deconnectors.com\/blog-on\/&#34;]}]},{&#34;@type&#34;:&#34;BreadcrumbList&#34;,&#34;@id&#34;:&#34;http:\/\/deconnectors.com\/blog-on\/#breadcrumb&#34;,&#34;itemListElement&#34;:[{&#34;@type&#34;:&#34;ListItem&#34;,&#34;position&#34;:1,&#34;name&#34;:&#34;Home&#34;,&#34;item&#34;:&#34;https:\/\/deconnectors.com\/&#34;},{&#34;@type&#34;:&#34;ListItem&#34;,&#34;position&#34;:2,&#34;name&#34;:&#34;Blog&#34;}]},{&#34;@type&#34;:&#34;WebSite&#34;,&#34;@id&#34;:&#34;http:\/\/deconnectors.com\/#website&#34;,&#34;url&#34;:&#34;http:\/\/deconnectors.com\/&#34;,&#34;name&#34;:&#34;DE CONNECTORS&#34;,&#34;description&#34;:&#34;Celebrating people&#34;,&#34;potentialAction&#34;:[{&#34;@type&#34;:&#34;SearchAction&#34;,&#34;target&#34;:{&#34;@type&#34;:&#34;EntryPoint&#34;,&#34;urlTemplate&#34;:&#34;http:\/\/deconnectors.com\/?s={search_term_string}&#34;},&#34;query-input&#34;:{&#34;@type&#34;:&#34;PropertyValueSpecification&#34;,&#34;valueRequired&#34;:true,&#34;valueName&#34;:&#34;search_term_string&#34;}}],&#34;inLanguage&#34;:&#34;nl-NL&#34;}]}
+    </script>
+    <!-- / Yoast SEO plugin. -->
+    <link rel="dns-prefetch" href="//deconnectors.com" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//cdn.openshareweb.com" />
+    <link rel="dns-prefetch" href="//cdn.shareaholic.net" />
+    <link rel="dns-prefetch" href="//www.shareaholic.net" />
+    <link rel="dns-prefetch" href="//analytics.shareaholic.com" />
+    <link rel="dns-prefetch" href="//recs.shareaholic.com" />
+    <link rel="dns-prefetch" href="//partner.shareaholic.com" />
+    <link rel="alternate" type="application/rss+xml" title="DE CONNECTORS » feed" href="https://deconnectors.com/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="DE CONNECTORS » reacties feed" href="https://deconnectors.com/comments/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="DE CONNECTORS » Blog reacties feed" href="https://deconnectors.com/blog-on/feed/" />
+    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://deconnectors.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdeconnectors.com%2Fblog-on%2F" />
+    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://deconnectors.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdeconnectors.com%2Fblog-on%2F&amp;format=xml" />
+    <!-- Shareaholic - https://www.shareaholic.com -->
+    <link rel="preload" href="//cdn.shareaholic.net/assets/pub/shareaholic.js" as="script" />
+    <script data-no-minify="1" data-cfasync="false">
+      _SHR_SETTINGS = {&#34;endpoints&#34;:{&#34;local_recs_url&#34;:&#34;https:\/\/deconnectors.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related&#34;,&#34;ajax_url&#34;:&#34;https:\/\/deconnectors.com\/wp-admin\/admin-ajax.php&#34;,&#34;share_counts_url&#34;:&#34;https:\/\/deconnectors.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api&#34;},&#34;site_id&#34;:&#34;f7d073c541eec8b6cc1335a971705a85&#34;,&#34;url_components&#34;:{&#34;year&#34;:&#34;2013&#34;,&#34;monthnum&#34;:&#34;10&#34;,&#34;day&#34;:&#34;14&#34;,&#34;hour&#34;:&#34;13&#34;,&#34;minute&#34;:&#34;22&#34;,&#34;second&#34;:&#34;03&#34;,&#34;post_id&#34;:&#34;8&#34;,&#34;postname&#34;:&#34;blog-on&#34;,&#34;category&#34;:&#34;co-creation-2&#34;}};
+    </script>
+    <script data-no-minify="1" data-cfasync="false" src="//cdn.shareaholic.net/assets/pub/shareaholic.js" data-shr-siteid="f7d073c541eec8b6cc1335a971705a85" async="">
+    </script>
+    <!-- Shareaholic Content Tags -->
+    <meta name="shareaholic:site_name" content="DE CONNECTORS" />
+    <meta name="shareaholic:language" content="nl-NL" />
+    <meta name="shareaholic:url" content="https://deconnectors.com/blog-on/" />
+    <meta name="shareaholic:keywords" content="type:page" />
+    <meta name="shareaholic:article_published_time" content="2013-10-14T13:22:03+01:00" />
+    <meta name="shareaholic:article_modified_time" content="2015-02-22T15:28:07+01:00" />
+    <meta name="shareaholic:shareable_page" content="true" />
+    <meta name="shareaholic:article_author_name" content="Stefanie Vermeulen" />
+    <meta name="shareaholic:site_id" content="f7d073c541eec8b6cc1335a971705a85" />
+    <meta name="shareaholic:wp_version" content="9.7.13" />
+    <!-- Shareaholic Content Tags End -->
+    <!-- This site uses the Google Analytics by MonsterInsights plugin v11.3.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+    <!-- Opmerking: MonsterInsights is momenteel niet geconfigureerd op deze site. De site eigenaar moet authenticeren met Google Analytics in de MonsterInsights instellingen scherm. -->
+    <!-- No tracking code set -->
+    <!-- / Google Analytics by MonsterInsights -->
+    <style id="wp-img-auto-sizes-contain-inline-css">
+      img:is([sizes=auto i],[sizes^=&#34;auto,&#34; i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+    </style>
+    <style id="wp-emoji-styles-inline-css">
+      img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+    </style>
+    <link rel="stylesheet" id="wp-block-library-css" href="https://deconnectors.com/wp-includes/css/dist/block-library/style.min.css?ver=7.1.4" media="all" />
+    <style id="classic-theme-styles-inline-css">
+      /*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+    </style>
+    <style id="global-styles-inline-css">
+      :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex &gt; :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid &gt; :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+    </style>
+    <link rel="stylesheet" id="us-font-1-css" href="https://fonts.googleapis.com/css?family=Dosis:400,700&amp;subset=latin&amp;ver=7.1.4" media="all" />
+    <link rel="stylesheet" id="us-font-2-css" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&amp;subset=latin&amp;ver=7.1.4" media="all" />
+    <link rel="stylesheet" id="us-motioncss-css" href="https://deconnectors.com/wp-content/themes/Corsa/css/motioncss.css?ver=1.7.4" media="all" />
+    <link rel="stylesheet" id="us-motioncss-responsive-css" href="https://deconnectors.com/wp-content/themes/Corsa/css/motioncss-responsive.css?ver=1.7.4" media="all" />
+    <link rel="stylesheet" id="us-font-awesome-css" href="https://deconnectors.com/wp-content/themes/Corsa/css/font-awesome.css?ver=4.3.0" media="all" />
+    <link rel="stylesheet" id="us-magnific-popup-css" href="https://deconnectors.com/wp-content/themes/Corsa/css/magnific-popup.css?ver=1" media="all" />
+    <link rel="stylesheet" id="us-fotorama-css" href="https://deconnectors.com/wp-content/themes/Corsa/css/fotorama.css?ver=1" media="all" />
+    <link rel="stylesheet" id="us-style-css" href="https://deconnectors.com/wp-content/themes/Corsa/css/style.css?ver=1.7.4" media="all" />
+    <link rel="stylesheet" id="us-responsive-css" href="https://deconnectors.com/wp-content/themes/Corsa/css/responsive.css?ver=1.7.4" media="all" />
+    <link rel="stylesheet" id="us_custom_css-css" href="http://deconnectors.com/wp-content/uploads/us_custom_css/us_corsa_custom_styles.css?ver=1.7.4" media="all" />
+    <script id="burst-timeme-js" async="" src="https://deconnectors.com/wp-content/plugins/burst-statistics/assets/js/timeme/timeme.min.js?ver=1793268347">
+    </script>
+    <script id="jquery-core-js" src="https://deconnectors.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1">
+    </script>
+    <script id="jquery-migrate-js" src="https://deconnectors.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1">
+    </script>
+    <script id="us-modernizr-js" src="https://deconnectors.com/wp-content/themes/Corsa/js/modernizr.js?ver=7.1.4">
+    </script>
+    <script id="us-supersized-js" src="https://deconnectors.com/wp-content/themes/Corsa/js/supersized.3.2.7.js?ver=7.1.4">
+    </script>
+    <link rel="https://api.w.org/" href="https://deconnectors.com/wp-json/" />
+    <link rel="alternate" title="JSON" type="application/json" href="https://deconnectors.com/wp-json/wp/v2/pages/8" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://deconnectors.com/xmlrpc.php?rsd" />
+    <meta name="generator" content="WordPress 7.1.4" />
+    <link rel="shortlink" href="https://deconnectors.com/?p=8" />
+    <meta name="generator" content="Elementor 4.3.5; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto" />
+    <style>
+      .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+    </style>
+    <style id="wp-custom-css">
+      /*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+ .BredaVanng-link{
+ position: absolute;
+    left: 61px;
+    top: 54px;
+    width: 59.5%;
+    height: 69%;
+    color:transparent !Important;
+}
+
+.link-for-2ndrow-project{
+ height:56% !important;
+}
+
+.w-clients-item img[alt=&#34;Logo Divosa&#34;]{
+ height:120px;
+}
+
+.w-clients-item img[alt=&#34;Stadslab Bred&#34;]{
+ height:120px;
+}
+
+.w-clients-item img[alt=&#34;Breda2&#34;]{
+ height:120px;
+}
+
+
+ .w-clients-item img[alt=&#34;Breda_FC&#34;]{
+ height:120px;
+}      
+
+.w-clients-item img[alt=&#34;Vierkant&#34;]{
+ height:120px;
+}
+
+.w-clients-item img[alt=&#34;Breda Vandaag&#34;]{
+ margin-top:
+}
+
+.w-clients-item-h img{
+filter: grayscale(100%);
+}
+
+
+#portfolio{
+ overflow:hidden;
+}
+
+
+.w-team-member-image img{
+ 	filter: grayscale(100%);
+}
+
+@media(max-width:1023px){
+.BredaVanng-link{
+ width: 89%;
+    height: 61%;
+}
+.link-for-2ndrow-project{
+height: 50% !important;}
+
+.custom-style-differ-links{
+ height:46% !important;
+}
+
+}
+
+@media(max-width:860px){
+.BredaVanng-link{
+  height: 56%;
+}
+.link-for-2ndrow-project{
+    height: 41% !important;}
+
+}
+
+@media(max-width:700px){
+.BredaVanng-link {
+    height: 48%;
+}
+.link-for-2ndrow-project{
+height: 34% !important;}
+
+.custom-style-differ-links{
+ height:40% !important;
+}
+
+}
+
+@media(max-width:550px){
+.BredaVanng-link {
+    height: 40%;
+    left: 0;
+    width: 94%;
+    top: 41px;
+}
+
+.custom-style-differ-links {
+    height: 29% !important;
+}
+.link-for-2ndrow-project{
+height: 26% !important;}
+
+}
+
+@media(max-width:407px){
+.BredaVanng-link{
+ height:33%;
+}
+
+.link-for-2ndrow-project {
+    height: 18% !important;
+}
+
+.custom-style-differ-links{
+height: 17% !important;
+}
+}
+    </style>
+  </head>
+  <body class="wp-singular page-template page-template-page-blog page-template-page-blog-php page page-id-8 wp-theme-Corsa l-body headertype_sticky headerpos_top no_pagesections col_cont elementor-default elementor-kit-2843" data-burst_id="8" data-burst_type="page">
+    <!-- HEADER -->
+    <div class="l-header full_width">
+      <div class="l-header-h i-cf">
+        <!-- logo -->
+        <div class="w-logo with_title">
+          <a class="w-logo-link" href="https://deconnectors.com/">          <img class="w-logo-img" src="https://deconnectors.com/wp-content/themes/Corsa/img/logo_0.png" alt="DE CONNECTORS" />
+          <span class="w-logo-title">          De Connectors
+</span>
+</a>
+        </div>
+        <div class="w-socials">
+          <div class="w-socials-list">
+            <div class="w-socials-item twitter">
+              <a class="w-socials-item-link" href="https://twitter.com/deconnectors" target="_blank">              <i class="fa fa-twitter"></i>
+</a>
+              <div class="w-socials-item-popup">
+                <span>                Twitter
+</span>
+              </div>
+            </div>
+            <div class="w-socials-item youtube">
+              <a class="w-socials-item-link" href="https://www.youtube.com/user/deconnectors" target="_blank">              <i class="fa fa-youtube-play"></i>
+</a>
+              <div class="w-socials-item-popup">
+                <span>                YouTube
+</span>
+              </div>
+            </div>
+            <div class="w-socials-item vimeo">
+              <a class="w-socials-item-link" href="https://vimeo.com/deconnectors" target="_blank">              <i class="fa fa-vimeo-square"></i>
+</a>
+              <div class="w-socials-item-popup">
+                <span>                Vimeo
+</span>
+              </div>
+            </div>
+            <div class="w-socials-item flickr">
+              <a class="w-socials-item-link" href="https://www.flickr.com/deconnectors" target="_blank">              <i class="fa fa-flickr"></i>
+</a>
+              <div class="w-socials-item-popup">
+                <span>                Flickr
+</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- NAV -->
+        <nav class="w-nav layout_hor touch_disabled">
+          <div class="w-nav-control">
+            <i class="fa fa-bars"></i>
+          </div>
+          <ul class="w-nav-list level_1">
+            <li id="menu-item-1770" class="menu-item menu-item-type-post_type menu-item-object-us_main_page_section w-nav-item level_1 menu-item-1770">
+              <a class="w-nav-anchor level_1" href="https://deconnectors.com/#home">              <span class="w-nav-title">              Home
+</span>
+              <span class="w-nav-arrow"></span>
+</a>
+            </li>
+            <li id="menu-item-1769" class="menu-item menu-item-type-post_type menu-item-object-us_main_page_section w-nav-item level_1 menu-item-1769">
+              <a class="w-nav-anchor level_1" href="https://deconnectors.com/#about">              <span class="w-nav-title">              Over
+</span>
+              <span class="w-nav-arrow"></span>
+</a>
+            </li>
+            <li id="menu-item-1773" class="menu-item menu-item-type-post_type menu-item-object-us_main_page_section w-nav-item level_1 menu-item-1773">
+              <a class="w-nav-anchor level_1" href="https://deconnectors.com/#services">              <span class="w-nav-title">              Wat
+</span>
+              <span class="w-nav-arrow"></span>
+</a>
+            </li>
+            <li id="menu-item-1771" class="menu-item menu-item-type-post_type menu-item-object-us_main_page_section w-nav-item level_1 menu-item-1771">
+              <a class="w-nav-anchor level_1" href="https://deconnectors.com/#our-team">              <span class="w-nav-title">              Wie
+</span>
+              <span class="w-nav-arrow"></span>
+</a>
+            </li>
+            <li id="menu-item-1772" class="menu-item menu-item-type-post_type menu-item-object-us_main_page_section w-nav-item level_1 menu-item-1772">
+              <a class="w-nav-anchor level_1" href="https://deconnectors.com/#portfolio">              <span class="w-nav-title">              Projecten
+</span>
+              <span class="w-nav-arrow"></span>
+</a>
+            </li>
+          </ul>
+        </nav>
+        <!-- /NAV -->
+      </div>
+    </div>
+    <!-- /HEADER -->
+    <!-- MAIN -->
+    <div class="l-main align_center">
+      &gt;
+      <section class="l-section">
+        <div class="l-subsection">
+          <div class="l-subsection-h g-html i-cf">
+            <div class="l-content">
+              <h2>
+                Blog
+              </h2>
+              <div class="g-hr type_invisible">
+              </div>
+              <div style="display:none;" class="shareaholic-canvas" data-app="share_buttons" data-title="Blog" data-link="https://deconnectors.com/blog-on/" data-app-id-name="page_above_content">
+              </div>
+              <div style="display:none;" class="shareaholic-canvas" data-app="share_buttons" data-title="Blog" data-link="https://deconnectors.com/blog-on/" data-app-id-name="page_below_content">
+              </div>
+              <div class="w-blog imgpos_atleft">
+                <div class="w-blog-list">
+                  <div class="w-blog-entry post-2663 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/news/tikkie-nairobi/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2018/03/tikkie-nairobi-500x500.png" alt="Tikkie Nairobi" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Tikkie Nairobi
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            mrt
+</span>
+                            <span class="w-blog-meta-date-day">                            05
+</span>
+                            <span class="w-blog-meta-date-year">                            2018
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Herinneren jullie je dit blog nog dat ik jaren geleden schreef op Frankwatching? Afrika rijdt Ferrari heet het, waarin ik vertelde dat…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2659 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/news/circulair-ondernemen-made-easy/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2018/01/leo-schaap-en-stef-500x500.png" alt="Circulair ondernemen made easy" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Circulair ondernemen made easy
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            jan
+</span>
+                            <span class="w-blog-meta-date-day">                            22
+</span>
+                            <span class="w-blog-meta-date-year">                            2018
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Circulair ondernemen kan heel eenvoudig zijn. En beginnen met wat drap. Kijk maar naar Leo Schaap, die zijn Bredaas geZwam oesterzwammen kweekt van…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2655 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/news/2655/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2018/01/noordkorea-portret-500x500.png" alt="Handel als wapen tegen Noord-Korea" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Handel als wapen tegen Noord-Korea
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            jan
+</span>
+                            <span class="w-blog-meta-date-day">                            22
+</span>
+                            <span class="w-blog-meta-date-year">                            2018
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            In 2008 ging ik als journalist mee met de Nederlandse handelsmissie naar Pyongyang. Met goede vriend en regisseur Jaap van ’t Kruis…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2652 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/news/fietsen-langs-organisatievernieuwers-in-stadsexpeditie-breda/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2018/01/PakhuisB-foto-500x500.jpg" alt="Fietsen langs organisatievernieuwers in stadsexpeditie Breda" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Fietsen langs organisatievernieuwers in stadsexpeditie Breda
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            jan
+</span>
+                            <span class="w-blog-meta-date-day">                            22
+</span>
+                            <span class="w-blog-meta-date-year">                            2018
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Pakhuis de Zwijger begon er mee, stadsexpedities. Fietsen langs slimme, vernieuwende en bottom up initiatieven in Amsterdam. Verschillende routes behandelen verschillende thema’s.…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2650 post type-post status-publish format-standard has-post-thumbnail hentry category-storytelling">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/storytelling/terugblik-naar-het-festival-van-de-democratie/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2017/09/protfolio-img2-500x500.jpg" alt="Terugblik naar het festival van de Democratie" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Terugblik naar het festival van de Democratie
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            jan
+</span>
+                            <span class="w-blog-meta-date-day">                            22
+</span>
+                            <span class="w-blog-meta-date-year">                            2018
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            “De letterlijke betekenis van democratie is: het volk heerst. Maar daar zit misschien wel het probleem: hét volk bestaat niet.” Met die…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2389 post type-post status-publish format-standard hentry category-news">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/news/pakhuisb-en-de-toekomst-van-ons-onderwijs/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/themes/Corsa/img/placeholder/500x500.gif" alt="PakhuisB en de toekomst van ons onderwijs" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        PakhuisB en de toekomst van ons onderwijs
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            apr
+</span>
+                            <span class="w-blog-meta-date-day">                            06
+</span>
+                            <span class="w-blog-meta-date-year">                            2016
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            In deze serie over de toekomst van ons onderwijs gaat PakhuisB  (een initiatief van o.a. Stefanie Vermeulen van DE CONNECTORS) op zoek naar…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2384 post type-post status-publish format-standard has-post-thumbnail hentry category-co-creation-2 tag-1club tag-afrilabs tag-business tag-decentraal-organiseren tag-ngo tag-start-up">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/co-creation-2/we-have-all-the-solutions/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2016/04/foto-bij-barts-interview-2-500x500.jpg" alt="We have all the solutions" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        We have all the solutions
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            apr
+</span>
+                            <span class="w-blog-meta-date-day">                            06
+</span>
+                            <span class="w-blog-meta-date-year">                            2016
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Before crowdfunding was even called crowdfunding, Bart Lacroix was already doing it with his 1%CLUB. Founded in 2008 the do-good platform, partner…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2376 post type-post status-publish format-standard has-post-thumbnail hentry category-co-creation-2 tag-dao tag-dco tag-seats2meet tag-serendipity tag-society3">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/co-creation-2/serendipity-is-key/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2016/04/Meetberlage-happy-people-500x500.jpg" alt="Serendipity is key" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Serendipity is key
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            apr
+</span>
+                            <span class="w-blog-meta-date-day">                            06
+</span>
+                            <span class="w-blog-meta-date-year">                            2016
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Talking to Felix Lepoutre is like taking a glimpse into the future. He was part of the founding team of Seats2Meet, when…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2366 post type-post status-publish format-standard has-post-thumbnail hentry category-co-creation-2">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/co-creation-2/bee-collective-presenting-rianne-van-asperen/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2015/09/BeeCollective_logo.jpg" alt="Bee Collective – presenting Rianne van Asperen" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Bee Collective – presenting Rianne van Asperen
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            sep
+</span>
+                            <span class="w-blog-meta-date-day">                            16
+</span>
+                            <span class="w-blog-meta-date-year">                            2015
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            We are very excited to present to you Bee Collective; Swarm Solutions, DE CONNECTORS’ latest initiative. Join us and become part of a…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2355 post type-post status-publish format-standard has-post-thumbnail hentry category-co-creation-2 tag-ben-kuiken tag-broodfonds tag-buurtzorg-nederland tag-decentraal-organiseren tag-dominique-haijtema tag-het-vierde-brein tag-jan-rotmans tag-jan-stans tag-management-team tag-nieuw-organiseren">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/co-creation-2/zeg-leider-begin-met-leven/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2015/05/logo_hetvierdebrein_youtubekanaal_2048x1152px-500x500.jpg" alt="Zeg leider, begin met leven!" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Zeg leider, begin met leven!
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            mei
+</span>
+                            <span class="w-blog-meta-date-day">                            18
+</span>
+                            <span class="w-blog-meta-date-year">                            2015
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            “Ik vind het onuitstaanbaar dat we ons brein gebruiken om macht te misbruiken, of erger nog, elkaar de hersens in te slaan.…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2343 post type-post status-publish format-standard has-post-thumbnail hentry category-co-creation-2 tag-app tag-nao tag-robot tag-social-branding tag-social-media-2 tag-start-up">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/co-creation-2/bouw-een-app-voor-nao/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2015/03/nao-rust-even-uit.jpeg" alt="Bouw een app voor Nao" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Bouw een app voor Nao
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            mrt
+</span>
+                            <span class="w-blog-meta-date-day">                            30
+</span>
+                            <span class="w-blog-meta-date-year">                            2015
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Zijn witte plastic armen scharnieren sierlijk langs zijn lichaam. Langzaam en vloeiend buigt hij zijn benen op de pianomuziek die uit zijn…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2260 post type-post status-publish format-standard has-post-thumbnail hentry category-co-creation-2 category-livestream tag-kooks tag-livestream-2 tag-livestreaming tag-social-branding tag-social-media-2 tag-storytelling-2 tag-video">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/livestream/livestreaming-social-branding-steroids/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2015/02/Afrilabs-hangout-photo-500x500.jpg" alt="Livestreaming is interactie, interactie, interactie" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Livestreaming is interactie, interactie, interactie
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            feb
+</span>
+                            <span class="w-blog-meta-date-day">                            03
+</span>
+                            <span class="w-blog-meta-date-year">                            2015
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Livestreaming is vet. Vind ik. Een voorbeeld. Van oorsprong ben ik journalist, en in de journalistiek zou livestreaming een onwijze bonus kunnen…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2249 post type-post status-publish format-standard has-post-thumbnail hentry category-training">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/training/power-youth/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2014/04/jimmys3_1440-500x500.jpg" alt="Power to the youth" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Power to the youth
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            jan
+</span>
+                            <span class="w-blog-meta-date-day">                            20
+</span>
+                            <span class="w-blog-meta-date-year">                            2015
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            When you’re young, living in the north of Holland and you have a question, truly any question, you want to go to…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2161 post type-post status-publish format-standard has-post-thumbnail hentry category-news">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/news/merry-xmas-everyone/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2014/12/Kerstlunch-2014-DeConnectors-500x500.jpg" alt="Merry Xmas everyone!" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Merry Xmas everyone!
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            dec
+</span>
+                            <span class="w-blog-meta-date-day">                            16
+</span>
+                            <span class="w-blog-meta-date-year">                            2014
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            What a great first year we had! All thanks to you who believed in us and whom we worked with, for, and…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2110 post type-post status-publish format-standard has-post-thumbnail hentry category-training">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/training/odc14-open-just-right-kickoff-rolf-kleef/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2014/09/fotootje-bij-blog-interview-Rolf-Kleef-door-Petra-500x480.jpg" alt="#ODC14: open, just, right? A kickoff with Rolf Kleef" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        #ODC14: open, just, right? A kickoff with Rolf Kleef
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            sep
+</span>
+                            <span class="w-blog-meta-date-day">                            02
+</span>
+                            <span class="w-blog-meta-date-year">                            2014
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            As the kick-off for our information campaign our reporter Petra Kroon had an appointment with Rolf Kleef. What was meant as an…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2102 post type-post status-publish format-standard has-post-thumbnail hentry category-livestream category-news category-training">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/training/wij-zoeken-een-producer-en-redacteur-voor-odc14/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-22-at-09.45.57-500x500.png" alt="Wij zoeken een Producer en Redacteur voor ODC14" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Wij zoeken een Producer en Redacteur voor ODC14
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            aug
+</span>
+                            <span class="w-blog-meta-date-day">                            19
+</span>
+                            <span class="w-blog-meta-date-year">                            2014
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Voor de organisatie van het jaarlijks terugkerende OpenDevelopmentCamp met een eigen online live talkshow programma zoeken wij een producer en redacteur. het…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2068 post type-post status-publish format-standard has-post-thumbnail hentry category-co-creation-2 category-livestream tag-afrilabs tag-competition tag-event tag-gig tag-into-the-wild tag-republica tag-start-up">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/livestream/running-wild-republica/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2014/05/nr-5-bilal-500x500.jpg" alt="Running Into the Wild at Re:publica" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Running Into the Wild at Re:publica
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            mei
+</span>
+                            <span class="w-blog-meta-date-day">                            13
+</span>
+                            <span class="w-blog-meta-date-year">                            2014
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Smartphone cases which take you off the radar, a tearful audience, the fun and freeky Polish band Bokka and David Hasselhoff, they…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2035 post type-post status-publish format-standard has-post-thumbnail hentry category-storytelling tag-live tag-multimedia tag-photography">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/storytelling/fotografie-daar-zit-meer/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2014/03/PIWIJZER-QUOTES_feat.jpg" alt="Fotografie, daar zit meer in" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Fotografie, daar zit meer in
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            apr
+</span>
+                            <span class="w-blog-meta-date-day">                            04
+</span>
+                            <span class="w-blog-meta-date-year">                            2014
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Je kunt beter 10 leuke foto’s plaatsen en verspreiden met een leuk verhaal en een context, dan 50 losse foto’s op Picasa…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-blog-entry post-2037 post type-post status-publish format-standard has-post-thumbnail hentry category-storytelling tag-journalism tag-live tag-open">
+                    <div class="w-blog-entry-h">
+                      <a class="w-blog-entry-link" href="https://deconnectors.com/storytelling/live-en-open-journalism/">                      <span class="w-blog-entry-preview">                      <img src="https://deconnectors.com/wp-content/uploads/2014/04/3piglets-500x500.png" alt="Live en open journalism" />
+</span>
+                      <h2 class="w-blog-entry-title">
+                        <span>                        Live en open journalism
+</span>
+                      </h2>
+</a>
+                      <div class="w-blog-entry-body">
+                        <div class="w-blog-meta">
+                          <div class="w-blog-meta-date">
+                            <span class="w-blog-meta-date-month">                            mrt
+</span>
+                            <span class="w-blog-meta-date-day">                            30
+</span>
+                            <span class="w-blog-meta-date-year">                            2014
+</span>
+                          </div>
+                        </div>
+                        <div class="w-blog-entry-short">
+                          <p>
+                            Als je het filmpje nog niet kent van de drie biggetjes van The Guardian, die Engelse koploper in de dagbladindustrie weet je…
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="g-pagination">
+              </div>
+            </div>
+            <div class="l-sidebar">
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <!-- /MAIN -->
+    <!-- FOOTER -->
+    <div class="l-footer">
+      <!-- subfooter -->
+      <div class="l-subfooter at_bottom">
+        <div class="l-subfooter-h i-cf">
+          <div class="w-socials">
+            <div class="w-socials-list">
+              <div class="w-socials-item twitter">
+                <a class="w-socials-item-link" href="https://twitter.com/deconnectors" target="_blank">                <i class="fa fa-twitter"></i>
+</a>
+                <div class="w-socials-item-popup">
+                  <div class="w-socials-item-popup-h">
+                    <span class="w-socials-item-popup-text">                    Twitter
+</span>
+                  </div>
+                </div>
+              </div>
+              <div class="w-socials-item youtube">
+                <a class="w-socials-item-link" href="https://www.youtube.com/user/deconnectors" target="_blank">                <i class="fa fa-youtube-play"></i>
+</a>
+                <div class="w-socials-item-popup">
+                  <div class="w-socials-item-popup-h">
+                    <span class="w-socials-item-popup-text">                    YouTube
+</span>
+                  </div>
+                </div>
+              </div>
+              <div class="w-socials-item vimeo">
+                <a class="w-socials-item-link" href="https://vimeo.com/deconnectors" target="_blank">                <i class="fa fa-vimeo-square"></i>
+</a>
+                <div class="w-socials-item-popup">
+                  <div class="w-socials-item-popup-h">
+                    <span class="w-socials-item-popup-text">                    Vimeo
+</span>
+                  </div>
+                </div>
+              </div>
+              <div class="w-socials-item flickr">
+                <a class="w-socials-item-link" href="https://www.flickr.com/deconnectors" target="_blank">                <i class="fa fa-flickr"></i>
+</a>
+                <div class="w-socials-item-popup">
+                  <div class="w-socials-item-popup-h">
+                    <span class="w-socials-item-popup-text">                    Flickr
+</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="w-copyright">
+            © De Connectors
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /FOOTER -->
+    <a class="w-toplink" href="#">    <i class="fa fa-chevron-up"></i>
+</a>
+    <script>
+      window.ajaxURL = &#39;https://deconnectors.com/wp-admin/admin-ajax.php&#39;;
+	window.nameFieldError = &#34;Please enter your Name!&#34;;
+	window.emailFieldError = &#34;Please enter your Email!&#34;;
+	window.phoneFieldError = &#34;Please enter your Phone Number!&#34;;
+	window.messageFieldError = &#34;Please enter a Message!&#34;;
+	window.messageFormSuccess = &#34;Thank you! Your message was sent.&#34;;
+	window.mobileNavWidth = &#34;1024&#34;;		window.mobileLogoHeight = &#34;30&#34;;		window.headerMenuTogglable = 0;
+    </script>
+    <script type="speculationrules">
+      {&#34;prefetch&#34;:[{&#34;source&#34;:&#34;document&#34;,&#34;where&#34;:{&#34;and&#34;:[{&#34;href_matches&#34;:&#34;/*&#34;},{&#34;not&#34;:{&#34;href_matches&#34;:[&#34;/wp-*.php&#34;,&#34;/wp-admin/*&#34;,&#34;/wp-content/uploads/*&#34;,&#34;/wp-content/*&#34;,&#34;/wp-content/plugins/*&#34;,&#34;/wp-content/themes/Corsa/*&#34;,&#34;/*\\?(.+)&#34;]}},{&#34;not&#34;:{&#34;selector_matches&#34;:&#34;a[rel~=\&#34;nofollow\&#34;]&#34;}},{&#34;not&#34;:{&#34;selector_matches&#34;:&#34;.no-prefetch, .no-prefetch a&#34;}}]},&#34;eagerness&#34;:&#34;conservative&#34;}]}
+    </script>
+    <script>
+      ( () =&gt; {
+					const lazyloadRunObserver = () =&gt; {
+						const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+						const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) =&gt; {
+							entries.forEach( ( entry ) =&gt; {
+								if ( entry.isIntersecting ) {
+									let lazyloadBackground = entry.target;
+									if( lazyloadBackground ) {
+										lazyloadBackground.classList.add( &#39;e-lazyloaded&#39; );
+									}
+									lazyloadBackgroundObserver.unobserve( entry.target );
+								}
+							});
+						}, { rootMargin: &#39;200px 0px 200px 0px&#39; } );
+						lazyloadBackgrounds.forEach( ( lazyloadBackground ) =&gt; {
+							lazyloadBackgroundObserver.observe( lazyloadBackground );
+						} );
+					};
+					const events = [
+						&#39;DOMContentLoaded&#39;,
+						&#39;elementor/lazyload/observe&#39;,
+					];
+					events.forEach( ( event ) =&gt; {
+						document.addEventListener( event, lazyloadRunObserver );
+					} );
+				} )();
+    </script>
+    <script id="burst-js" defer="" src="https://deconnectors.com/wp-content/uploads/burst/js/burst.min.js?ver=1793279252">
+    </script>
+    <script id="us-jquery-easing-js" src="https://deconnectors.com/wp-content/themes/Corsa/js/jquery.easing.min.js?ver=7.1.4">
+    </script>
+    <script id="us-magnific-popup-js" src="https://deconnectors.com/wp-content/themes/Corsa/js/jquery.magnific-popup.js?ver=7.1.4">
+    </script>
+    <script id="us-supersized-shutter-js" src="https://deconnectors.com/wp-content/themes/Corsa/js/supersized.shutter.js?ver=7.1.4">
+    </script>
+    <script id="us-waypoints-js" src="https://deconnectors.com/wp-content/themes/Corsa/js/waypoints.min.js?ver=7.1.4">
+    </script>
+    <script id="us-imagesloaded-js" src="https://deconnectors.com/wp-content/themes/Corsa/js/imagesloaded.js?ver=7.1.4">
+    </script>
+    <script id="us-plugins-js" src="https://deconnectors.com/wp-content/themes/Corsa/js/plugins.js?ver=1.7.4">
+    </script>
+    <script id="us-widgets-js" src="https://deconnectors.com/wp-content/themes/Corsa/js/us.widgets.js?ver=1.7.4">
+    </script>
+    <script async="" data-wp-strategy="async" fetchpriority="low" id="comment-reply-js" src="https://deconnectors.com/wp-includes/js/comment-reply.min.js?ver=7.1.4">
+    </script>
+    <script id="wp-emoji-settings" type="application/json">
+      {&#34;baseUrl&#34;:&#34;https://s.w.org/images/core/emoji/17.0.2/72x72/&#34;,&#34;ext&#34;:&#34;.png&#34;,&#34;svgUrl&#34;:&#34;https://s.w.org/images/core/emoji/17.0.2/svg/&#34;,&#34;svgExt&#34;:&#34;.svg&#34;,&#34;source&#34;:{&#34;concatemoji&#34;:&#34;https://deconnectors.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4&#34;}}
+    </script>
+    <script type="module">
+      /*! This file is auto-generated */
+var e=&#34;script#wp-emoji-settings&#34;,t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error(&#34;Element missing: &#34;+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,&#34;wpEmojiSettingsSupports&#34;),o=[&#34;flag&#34;,&#34;emoji&#34;];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=&gt;e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e&lt;n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case&#34;flag&#34;:return n(e,&#34;\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f&#34;,&#34;\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f&#34;)?!1:!n(e,&#34;\ud83c\udde8\ud83c\uddf6&#34;,&#34;\ud83c\udde8\u200b\ud83c\uddf6&#34;)&amp;&amp;!n(e,&#34;\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f&#34;,&#34;\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f&#34;);case&#34;emoji&#34;:return!r(e,&#34;\ud83e\u1fac8&#34;)}return!1}function f(e,t,n,r){let a;const s=(a=&#34;undefined&#34;!=typeof WorkerGlobalScope&amp;&amp;self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(&#34;canvas&#34;)).getContext(&#34;2d&#34;,{willReadFrequently:!0}),o=(s.textBaseline=&#34;top&#34;,s.font=&#34;600 32px Arial&#34;,{});return e.forEach(e=&gt;{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement(&#34;script&#34;);t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=&gt;{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if(&#34;object&#34;==typeof e&amp;&amp;&#34;number&#34;==typeof e.timestamp&amp;&amp;(new Date).valueOf()&lt;e.timestamp+604800&amp;&amp;&#34;object&#34;==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(&#34;undefined&#34;!=typeof Worker&amp;&amp;&#34;undefined&#34;!=typeof OffscreenCanvas&amp;&amp;&#34;undefined&#34;!=typeof URL&amp;&amp;URL.createObjectURL&amp;&amp;&#34;undefined&#34;!=typeof Blob)try{var e=&#34;postMessage(&#34;+f.toString()+&#34;(&#34;+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(&#34;,&#34;)+&#34;));&#34;,r=new Blob([e],{type:&#34;text/javascript&#34;});const a=new Worker(URL.createObjectURL(r),{name:&#34;wpTestEmojiSupports&#34;});return void(a.onmessage=e=&gt;{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=&gt;{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&amp;&amp;r.supports[n],&#34;flag&#34;!==n&amp;&amp;(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&amp;&amp;r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&amp;&amp;!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&amp;&amp;t.twemoji&amp;&amp;(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://deconnectors.com/wp-includes/js/wp-emoji-loader.min.js
+    </script>
+    <script>
+      jQuery(document).ready(function(){
+jQuery(&#34;.w-team-member-links-list a:last-child&#34;).attr(&#39;target&#39;,&#39;_blank&#39;);
+jQuery(&#39;.w-team-member-links-list a[href=&#34;https://nl.pinterest.com/dayennee111&#34;] i.fa-external-link-square&#39;).addClass(&#34;fa-pinterest-p&#34;);
+jQuery(&#39;.w-team-member-links-list a[href=&#34;https://www.instagram.com/mennorosmalen&#34;] i.fa-external-link-square&#39;).addClass(&#34;fa-instagram&#34;);
+jQuery(&#39;.w-team-member:nth-child(5) .w-team-member-links-list&#39;).append(&#39;&lt;a class=&#34;w-team-member-links-item&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#39;);
+
+});
+    </script>
+  </body>
+</html>

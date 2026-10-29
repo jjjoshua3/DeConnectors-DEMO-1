@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.netlify/
+.vercel/
+.tanstack/
+screenshots/
+*.log
+.env
+.env.local
+.grok/
